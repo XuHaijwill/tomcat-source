@@ -200,7 +200,7 @@
             docBase: 指定web应用的根目录
             reloadable: 热加载
          -->
-        <Context docBase="D:/JavaSource/Tomcat/mvc/target/mvc-1.0-SNAPSHOT"
+        <Context docBase="D:/sources/git/github/tomcat-source/mvc/target/mvc-1.0-SNAPSHOT"
                  path="/mvc" reloadable="true"/>
 
       </Host>
